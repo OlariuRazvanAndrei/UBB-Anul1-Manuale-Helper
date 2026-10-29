@@ -1,0 +1,18 @@
+# Executabile si fisiere obiect
+*.exe
+*.obj
+
+# Fisiere temporare
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+~$*
+
+# Obsidian
+.obsidian/
+
+# Windows
+Thumbs.db
+desktop.ini
