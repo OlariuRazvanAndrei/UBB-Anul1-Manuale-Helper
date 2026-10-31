@@ -8,7 +8,7 @@ set "FACULTATE=%USERPROFILE%\Documents\Facultate"
 
 REM Lista materiilor. Fiecare materie: sursa (din Facultate)^|folder in repo^|prefix nume
 REM Materiile se separa prin ;  (fara spatii in jurul lui ; si |)
-set "MATERII=Analiza matematica\Recapitulare|semestrul-1\analiza|analiza;Logica computationala\Recapitulare|semestrul-1\logica-computationala|logica"
+set "MATERII=Analiza matematica\Recapitulare|semestrul-1\analiza|analiza;Logica computationala\Recapitulare|semestrul-1\logica-computationala|logica;ASC Helper|semestrul-1\asc|asc"
 REM =================================================
 
 cd /d "%~dp0"

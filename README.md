@@ -16,6 +16,10 @@ Manuale personale de studiu pentru anul 1, Informatică (linia engleză), UBB FM
 - [Exerciții pe capitole](semestrul-1/logica-computationala/logica-01-exercitii-pe-capitole.pdf)
 - [Rezolvări și teorie](semestrul-1/logica-computationala/logica-02-rezolvari-si-teorie.pdf)
 
+#### Arhitectura sistemelor de calcul
+- [Exerciții pe capitole](semestrul-1/asc/asc-01-exercitii-pe-capitole.pdf)
+- [Rezolvări și teorie](semestrul-1/asc/asc-02-rezolvari-si-teorie.pdf)
+
 ### Semestrul 2
 _În curând._
 
