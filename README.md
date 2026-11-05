@@ -20,6 +20,10 @@ Manuale personale de studiu pentru anul 1, Informatică (linia engleză), UBB FM
 - [Exerciții pe capitole](semestrul-1/asc/asc-01-exercitii-pe-capitole.pdf)
 - [Rezolvări și teorie](semestrul-1/asc/asc-02-rezolvari-si-teorie.pdf)
 
+#### Algebră
+- [Exerciții pe capitole](semestrul-1/algebra/algebra-01-exercitii-pe-capitole.pdf)
+- [Rezolvări și teorie](semestrul-1/algebra/algebra-02-rezolvari-si-teorie.pdf)
+
 ### Semestrul 2
 _În curând._
 
