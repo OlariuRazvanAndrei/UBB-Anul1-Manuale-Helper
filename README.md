@@ -4,6 +4,8 @@ Manuale personale de studiu pentru anul 1, Informatică (linia engleză), UBB FM
 
 > ⚠️ **Notă:** manualele pot conține greșeli. Verifică întotdeauna cu notițele de curs/seminar și cu materialele oficiale.
 
+> ⭐ **Dacă îți sunt utile manualele, lasă o stea repo-ului!** Mă ajută să știu că merită să le actualizez și să adaug altele noi.
+
 ## Cuprins
 
 ### Semestrul 1
