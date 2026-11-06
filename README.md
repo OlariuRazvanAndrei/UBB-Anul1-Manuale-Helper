@@ -14,6 +14,12 @@ Manuale personale de studiu pentru anul 1, Informatică (linia engleză), UBB FM
 - [Exerciții pe capitole](semestrul-1/analiza/analiza-01-exercitii-pe-capitole.pdf)
 - [Rezolvări și teorie](semestrul-1/analiza/analiza-02-rezolvari-si-teorie.pdf)
 
+**Examene din anii trecuți** (subiect → pagină STOP → rezolvări explicate):
+- [Parțial 2024, rândul 1](semestrul-1/analiza/past-exams/analiza-exam-2024-1.pdf)
+- [Parțial 2024, rândul 2](semestrul-1/analiza/past-exams/analiza-exam-2024-2.pdf)
+- [Parțial 2025, rândul 1](semestrul-1/analiza/past-exams/analiza-exam-2025-1.pdf)
+- [Parțial 2025, rândul 2](semestrul-1/analiza/past-exams/analiza-exam-2025-2.pdf)
+
 #### Logică computațională
 - [Exerciții pe capitole](semestrul-1/logica-computationala/logica-01-exercitii-pe-capitole.pdf)
 - [Rezolvări și teorie](semestrul-1/logica-computationala/logica-02-rezolvari-si-teorie.pdf)
