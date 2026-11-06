@@ -14,7 +14,9 @@ Manuale personale de studiu pentru anul 1, Informatică (linia engleză), UBB FM
 - [Exerciții pe capitole](semestrul-1/analiza/analiza-01-exercitii-pe-capitole.pdf)
 - [Rezolvări și teorie](semestrul-1/analiza/analiza-02-rezolvari-si-teorie.pdf)
 
-**Examene din anii trecuți** (subiect → pagină STOP → rezolvări explicate):
+##### 📝 Analiză — examene din anii trecuți
+_Fiecare PDF: subiectul → pagină roșie **STOP** → rezolvările explicate._
+
 - [Parțial 2024, rândul 1](semestrul-1/analiza/past-exams/analiza-exam-2024-1.pdf)
 - [Parțial 2024, rândul 2](semestrul-1/analiza/past-exams/analiza-exam-2024-2.pdf)
 - [Parțial 2025, rândul 1](semestrul-1/analiza/past-exams/analiza-exam-2025-1.pdf)
@@ -32,7 +34,7 @@ Manuale personale de studiu pentru anul 1, Informatică (linia engleză), UBB FM
 - [Exerciții pe capitole](semestrul-1/algebra/algebra-01-exercitii-pe-capitole.pdf)
 - [Rezolvări și teorie](semestrul-1/algebra/algebra-02-rezolvari-si-teorie.pdf)
 
-**Linkuri utile:**
+##### 🔗 Algebră — linkuri utile
 - [Linear Algebra — curs complet pe YouTube (playlist)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6) — explicații vizuale pentru subspații, independență liniară, baze, dimensiune, $Ax=b$
 - [S. Crivei, *Basic Linear Algebra* (2022)](https://editura.ubbcluj.ro/index.php/puc/catalog/book/3855) — cartea profesorului, PDF gratuit pe site-ul editurii
 
